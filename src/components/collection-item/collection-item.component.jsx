@@ -1,4 +1,4 @@
-import './colection-item.style.scss';
+import './collection-item.style.scss';
 
 const CollectionItem = ({name, price, imageUrl})=> {
     console.log(imageUrl);
